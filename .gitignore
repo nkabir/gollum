@@ -6,3 +6,4 @@ Gemfile.lock
 *.gem
 *.swp
 .*
+node_modules
